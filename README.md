@@ -30,11 +30,9 @@ I consider that the best way to hone my skills is by implementing fixes to my wo
     * [Columbia Data Scientist Style Guide]
 
 * **Logging in Machine Learning**
-    * Basics of Loggi
-    * [Writing Idiomatic Python - Jeff Knupp]
-    * [Stanford CS 41: Idiomatic Python]
-    * [Another Tutorial On How To Write Pythonic Code]
-    * [The art of avoiding nested code]
+    * [Machine learning and logging]
+    * [Logging and Debugging in Machine learning]
+    * [Basics of Logging]
 
 * **iPython Notebook**
     
