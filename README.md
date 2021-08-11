@@ -23,14 +23,14 @@ I consider that the best way to hone my skills is by implementing fixes to my wo
 * __Timeframe__: I am aiming for a 3 month time to improve all my general ML engineering skills including docker, git and ml code for training.
 * 
 ## Project Milestones
-* **Learning Python & Best Practices**
+* **ML Docker best practices**
     * [Build On Top of the Basics: Python Progression]
     * [Drastically Improve Your Understanding: Jeff Knupp: Python's Execution Mode]
     * [Nate Batchelder: Loop like a native]
     * [Columbia Data Scientist Style Guide]
 
-* **Writing Pythonic Code**
-    * Guidelines For Writing Pythonic Code
+* **Logging in Machine Learning**
+    * Basics of Logging
         * Function: Use *args and **kwargs to accept arbitrary arguments in function definition
         * Tuples: effective unpacking, use _ for placeholder, swap values without tmp variables
         * List/Dict/Set: list comprehension, dict comprehension. dict.get, set comprehension
