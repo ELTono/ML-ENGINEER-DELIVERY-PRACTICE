@@ -30,17 +30,7 @@ I consider that the best way to hone my skills is by implementing fixes to my wo
     * [Columbia Data Scientist Style Guide]
 
 * **Logging in Machine Learning**
-    * Basics of Logging
-        * Function: Use *args and **kwargs to accept arbitrary arguments in function definition
-        * Tuples: effective unpacking, use _ for placeholder, swap values without tmp variables
-        * List/Dict/Set: list comprehension, dict comprehension. dict.get, set comprehension
-        * Strings: use .format, use .join
-        * Classes: use __ __ in function and variable name to mark private variables
-        * Generator: use generator to lazily load a infinite sequence
-        * Modules: writing modules for encapsulation
-        * Formatting: pep8 standards
-        * Executable script: __name__ = __main__
-        * Import: The right way to do imports
+    * Basics of Loggi
     * [Writing Idiomatic Python - Jeff Knupp]
     * [Stanford CS 41: Idiomatic Python]
     * [Another Tutorial On How To Write Pythonic Code]
@@ -124,8 +114,9 @@ I consider that the best way to hone my skills is by implementing fixes to my wo
 * [Udemy course]
     
 
-[Teach Yourself Programming in 10 years]:http://norvig.com/21-days.html
-[Plateau of Productivity]:http://pbpython.com/plateau-of-productivity.html
+[Machine learning and logging]:https://medium.com/analytics-vidhya/how-to-run-machine-learning-experiments-with-python-logging-module-9030fbee120e
+[Logging and Debugging in Machine learning]:https://theaisummer.com/logging-debugging/
+[Basics of Logging]:https://www.machinelearningplus.com/python/python-logging-guide/
 
 [reddit answer]:https://www.reddit.com/r/Python/comments/2tkkxd/considering_putting_my_efforts_into_python/
 [Language war]:http://www.dataschool.io/python-or-r-for-data-science/
