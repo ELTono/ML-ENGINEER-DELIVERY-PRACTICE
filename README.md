@@ -24,72 +24,16 @@ I consider that the best way to hone my skills is by implementing fixes to my wo
 * 
 ## Project Milestones
 * **ML Docker best practices**
-    * [Build On Top of the Basics: Python Progression]
-    * [Drastically Improve Your Understanding: Jeff Knupp: Python's Execution Mode]
-    * [Nate Batchelder: Loop like a native]
-    * [Columbia Data Scientist Style Guide]
+    * [Docker in ML]
+    * [Docker begginers]
+    * [Best practices for writing Dockerfiles]
+    * [15 Docker commands you should know]
 
 * **Logging in Machine Learning**
     * [Machine learning and logging]
     * [Logging and Debugging in Machine learning]
     * [Basics of Logging]
 
-* **iPython Notebook**
-    
-    * [Jupyter Notebook tips, tricks and shortcuts]
-    * [iPython Notebook Keybinding]
-
-* **Pandas For Data Analysis**
-
-    * Introduction to Numpy
-        * [Stanford ICME 193: Scientific Python]
-    
-    * Introduction to Pandas
-        * [Dplyr/pandas Vignette Comparison]
-        * [Data School Pandas Tutorials]
-            * [Data School Pandas Github iPython notebook]
-            * [More Pandas Questions Answered]
-            * [Other Resources]
-        * [Brandon Rhode's Pandas From The Groud Up]
-        * [Tom Augspurgur: Pandas]
-        * [Chris Albon's notes]
-
-* **Data Visualization**
-
-    * [BIDS: Python Bootcamp: Intro to Matplotlib]: The 800 pound gorilla, everything is customizable, but very low level
-    * [Seaborn]: Good for statistical visualization. I still find it a bit limited on the type of simple plots it can do
-    * [Bokeh]: Interactive, web browser base data visualization
-    * [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)]
-
-* **Writing Object Oriented Programming Python Code**
-    
-    * [Computational Biology: OOP For Scientist]
-    * [Improve Your Python: Jeff Knupp: OOP]
-    * [BIDS: Python Bootcamp: OOP]
-    * [OPP through machine learning]
-
-* **Writing Functional Programming Python Code**
-    
-    * [Simeon Franklin's higher order function]
-    * [BIDS: Python Bootcamp: Higher order functions]
-    * [Improve Your Python: Jeff Knupp: Yield & Generator Explained]
-    * [Improve Your Python: Jeff Knupp: Decorator Explained]
-    * [Improve Your Python: Jeff Knupp: Context Manager]
-    
-* **Estimators In Sklearn** 
-    * [Scikit-learn Machine Learning Library]
-    * [Scikit-learn metrics]
-    * [Scikit-learn Pipeline]
-
-* **Testing In Python**
-    
-    * [Computational Biology: Four Tools For Testing Your Python Code]
-    * [Computational Biology: Testing For Scientist]
-    * [Improve Your Python: Jeff Knupp: Understanding Unit Testing]
-    * [BIDS: Python Bootcamp: Test Driven Development]
-    * [Software Carpentry: Testing]
-    * [How to Write Testable Code and Why it Matters]
-    
 * **Good standard practice**
     * [Begginers guide to kickass README]
     * [Enforcing Single Responsibility Principle]
@@ -99,18 +43,10 @@ I consider that the best way to hone my skills is by implementing fixes to my wo
     
 ## Reference
 
-* [Python Tutor Visualizer]
-* [Python For Data Analysis]
-* [Stanford CS 41: Python]
-* [Berkeley CS 88: Python Data Structure]
-* [Harvard CS 109: Data Science]
-* [Berkeley BIDS Python bootcamp]
-* [Josh Bloom's Python Computing For Data Science]
-* [Writing Idiomatic Python - Jeff Knupp]
-* [Another Tutorial On How To Write Pythonic Code]
-* [Pandas Cookbook]
-* [Udemy course]
-    
+[Docker in ML]:https://towardsdatascience.com/a-complete-guide-to-building-a-docker-image-serving-a-machine-learning-system-in-production-d8b5b0533bde
+[Docker begginers]:https://docker-curriculum.com/
+[Best practices for writing Dockerfiles]:https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+[15 Docker commands you should know]:https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421
 
 [Machine learning and logging]:https://medium.com/analytics-vidhya/how-to-run-machine-learning-experiments-with-python-logging-module-9030fbee120e
 [Logging and Debugging in Machine learning]:https://theaisummer.com/logging-debugging/
