@@ -34,9 +34,12 @@ I consider that the best way to hone my skills is by implementing fixes to my wo
     * [Logging and Debugging in Machine learning]
     * [Basics of Logging]
 
-* **Good standard practice**
-    * [Begginers guide to kickass README]
-    * [Enforcing Single Responsibility Principle]
+* **General ML engineering best practices**
+    * [Engineering best practices for ML]
+    * [Best practices for ML engineering Google]
+    * [10 Useful Machine Learning Practices for Python developers]
+    * [Programming best practices for data science]
+    * [Rules for machine learning engineering]
     
 * **General public speaking skills**
    * [Toatmasters]
@@ -54,6 +57,11 @@ I consider that the best way to hone my skills is by implementing fixes to my wo
 [Logging and Debugging in Machine learning]:https://theaisummer.com/logging-debugging/
 [Basics of Logging]:https://www.machinelearningplus.com/python/python-logging-guide/
 
+[Engineering best practices for ML]:https://se-ml.github.io/practices/
+[Best practices for ML engineering Google]:https://developers.google.com/machine-learning/guides/rules-of-ml
+[10 Useful Machine Learning Practices for Python developers]:https://www.kdnuggets.com/2020/05/10-useful-machine-learning-practices-python-developers.html
+[Programming best practices for data science]:https://www.kdnuggets.com/2018/08/programming-best-practices-data-science.html
+[Rules for machine learning engineering]:https://www.kaggle.com/general/100474
 
 
 
