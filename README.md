@@ -28,6 +28,7 @@ I consider that the best way to hone my skills is by implementing fixes to my wo
     * [Docker begginers]
     * [Best practices for writing Dockerfiles]
     * [15 Docker commands you should know]
+    * [Docker overview]
 
 * **Logging in Machine Learning**
     * [Machine learning and logging]
@@ -52,6 +53,7 @@ I consider that the best way to hone my skills is by implementing fixes to my wo
 [15 Docker commands you should know]:https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421
 [Deployment with docker]:https://mlfromscratch.com/deployment-introduction/#/
 [6 docker basics you should know]: https://vsupalov.com/6-docker-basics/
+[Docker overview]: https://docs.docker.com/get-started/overview/
 
 [Machine learning and logging]:https://medium.com/analytics-vidhya/how-to-run-machine-learning-experiments-with-python-logging-module-9030fbee120e
 [Logging and Debugging in Machine learning]:https://theaisummer.com/logging-debugging/
